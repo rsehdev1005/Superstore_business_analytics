@@ -1,3 +1,4 @@
+
 # Superstore Business Analytics Dashboard
 
 An end-to-end business analytics project analyzing retail sales, customer 
@@ -106,3 +107,4 @@ simulated for this project (random values: 0%, 10%, 20%, 30%). Any
 apparent relationship between discount and profit margin in the 
 dashboard is coincidental, not a real business finding, and should 
 not be interpreted as an actual driver of profitability.
+
