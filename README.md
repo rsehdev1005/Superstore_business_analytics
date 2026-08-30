@@ -85,6 +85,7 @@ Four report pages:
 ![Product & Profitability Deep-Dive](screenshots/product_analysis.png)
 
 ## Repository Structure
+```
 superstore-business-analytics/
 ├── data/
 │ ├── SuperStore_Sales_DataSet.xlsx
@@ -99,7 +100,7 @@ superstore-business-analytics/
 │ ├── customer_analysis.png
 │ └── product_analysis.png
 └── README.md
-
+```
 ## Note on Data Limitations
 
 The `Discount` field was not present in the source data and was 
